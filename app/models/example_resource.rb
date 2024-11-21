@@ -1,0 +1,3 @@
+class ExampleResource < ApplicationRecord
+end
+
